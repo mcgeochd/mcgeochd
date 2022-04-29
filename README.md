@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @mcgeochd
 - 👀 I’m interested in space, modelling, and simulation
-- 🌱 I’m currently completing my MSc in Space Systems Engineering and am working on my thesis, for which I am writing a 2D DSMC code for high altitude re-entry modelling
-- 📫 If you want to, you can reach me on Reddit where I go by u/UltimateMygoochness
+- 🌱 I’m currently completing my MSc in Space Systems Engineering and am working on my thesis involving DSMC
